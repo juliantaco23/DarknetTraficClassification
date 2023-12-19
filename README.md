@@ -1,6 +1,8 @@
 # DarknetTraficClassification
 Developed classification model to differentiate between benign network traffic and Darknet-related activity. Conducted statistical and network analyses to identify key features crucial for classification. Built and fine-tuned a machine learning model based on selected features, ensuring accurate identification of Darknet traffic.
 
+The dataset is available in https://www.unb.ca/cic/datasets/darknet2020.html
+
 # Column and dataset description
 
 DARKNET
@@ -201,7 +203,9 @@ When a network device is idle, it means that it is not involved in transmitting 
 
 
 
-References	
+# References	
+
+Arash Habibi Lashkari, Gurdip Kaur, and Abir Rahali. 2021. DIDarknet: A Contemporary Approach to Detect and Characterize the Darknet Traffic using Deep Image Learning. In Proceedings of the 2020 10th International Conference on Communication and Network Security (ICCNS '20). Association for Computing Machinery, New York, NY, USA, 1–13. https://doi.org/10.1145/3442520.3442521
 
 https://www.kaggle.com/code/happygerypangestu/darknet-traffic-classification-k-nearest-neighbor
 
@@ -209,6 +213,5 @@ Tajadura Cubillo, D. (2022). Aplicación de técnicas de Deep Learning en un Sis
 
 Rust-Nguyen, N., Sharma, S., & Stamp, M. (2023). Darknet traffic classification and adversarial attacks using machine learning. Computers & Security, 127, 103098. https://doi.org/10.1016/j.cose.2023.103098.
 
-Arash Habibi Lashkari, Gurdip Kaur, and Abir Rahali. 2021. DIDarknet: A Contemporary Approach to Detect and Characterize the Darknet Traffic using Deep Image Learning. In Proceedings of the 2020 10th International Conference on Communication and Network Security (ICCNS '20). Association for Computing Machinery, New York, NY, USA, 1–13. https://doi.org/10.1145/3442520.3442521
 
 Almomani, A. Darknet traffic analysis, and classification system based on modified stacking ensemble learning algorithms. Inf Syst E-Bus Manage (2023). https://doi.org/10.1007/s10257-023-00626-2
